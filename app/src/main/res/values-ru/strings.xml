@@ -190,6 +190,7 @@
     <string name="timer_picker_pick_time">Выберите время</string>
 
     <string name="toast_sleep_timer_ended">Таймер сна закончился</string>
+    <string name="control_player_with_media_buttons">Управлять плеером с помощью кнопок мультимедиа</string>
     <string name="swap_the_volume_and_brightness_slider">Поменять местами ползунок громкости и яркости</string>
 
     <plurals name="plural_items">
